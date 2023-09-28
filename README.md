@@ -9,4 +9,3 @@ Data Analysis Portfolio
 ## Applications
 
 - 📊 [Letterboxd Dashboard](https://alexbatistaarantes.github.io/letterboxd-dashboard/)
-
