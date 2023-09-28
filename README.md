@@ -4,7 +4,7 @@ Data Analysis Portfolio
 
 ## Notebooks
 
-- 🏈 [Fantasy Football](./analysis/Fantasy%20Football/Fantasy%20Football.md)
+- 🏈 [Fantasy Football](/data-analysis/analysis/Fantasy Football/Fantasy Football.md)
 
 ## Applications
 
