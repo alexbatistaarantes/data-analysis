@@ -4,7 +4,7 @@ Data Analysis Portfolio
 
 ## Notebooks
 
-- 🏈 [Fantasy Football](https://github.com/alexbatistaarantes/data-analysis/blob/main/analysis/Fantasy%20Football/Fantasy%20Football.ipynb)
+- 🏈 [Fantasy Football](./analysis/Fantasy%20Football/Fantasy%20Football.md)
 
 ## Applications
 
