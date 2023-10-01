@@ -1,6 +1,3 @@
----
----
-
 # Fantasy Football
 
 Playing with some data from Fantasy Football from the league I'm playing.
@@ -17,6 +14,7 @@ League's data extracted using [espnfantasyfootball](https://github.com/tbryan2/e
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 df = pd.read_csv("data/players.csv")
 mt = pd.read_csv("data/matches.csv")
@@ -314,9 +312,9 @@ qbs = ["Tua Tagovailoa", "Jordan Love"]
 
 fig, ax = plt.subplots(figsize=(16,4), ncols=3)
 
-plot_players_score_throughout_season(df[(df.team==team)], ax[0], rbs, title="Running Back performances")
-plot_players_score_throughout_season(df[(df.team==team)], ax[1], qbs, title="Quarterbacks performances")
-plot_players_score_throughout_season(df[(df.team==team)], ax[2], wrs, title="Wide Receivers performances")
+plot_players_score_throughout_season(df[(df.team==my_team)], ax[0], rbs, title="Running Back performances")
+plot_players_score_throughout_season(df[(df.team==my_team)], ax[1], qbs, title="Quarterbacks performances")
+plot_players_score_throughout_season(df[(df.team==my_team)], ax[2], wrs, title="Wide Receivers performances")
 
 ax[2].legend(fontsize="x-small")
 ```
@@ -324,7 +322,7 @@ ax[2].legend(fontsize="x-small")
 
 
 
-    <matplotlib.legend.Legend at 0x7f07d3a885e0>
+    <matplotlib.legend.Legend at 0x7fb55daa35e0>
 
 
 
@@ -338,14 +336,22 @@ Comparing projections with actual scores
 
 
 ```python
-fig, ax = plt.subplots(figsize=(6,4))
-df.plot.scatter(x='score', y='projected', ax=ax)
+fig, axs = plt.subplots(figsize=(14, 6), ncols=2)
+
+df['projection_error'] = df.projected - df.score
+
+axs[0].set_title("Scatter of projected score VS actual score")
+sns.scatterplot(data=df[df.position!='Bench'], x='score', y='projected', hue='position', ax=axs[0])
+
+axs[1].set_title("Histogram of projection error (projected - actual score)")
+df['projection_error'].plot.hist(bins=15, ax=axs[1])
+
 ```
 
 
 
 
-    <Axes: xlabel='score', ylabel='projected'>
+    <Axes: title={'center': 'Histogram of projection error (projected - actual score)'}, ylabel='Frequency'>
 
 
 
