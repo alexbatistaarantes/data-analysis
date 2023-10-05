@@ -1,12 +1,12 @@
 Week,Name1,Score1,Name2,Score2,Type
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -14,23 +14,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -38,7 +38,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -46,7 +46,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -54,57 +54,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -112,23 +112,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -136,7 +136,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -144,7 +144,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -152,57 +152,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -210,23 +210,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -234,7 +234,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -242,7 +242,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -250,57 +250,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -308,23 +308,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -332,7 +332,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -340,7 +340,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -348,57 +348,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -406,23 +406,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -430,7 +430,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -438,7 +438,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -446,57 +446,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -504,23 +504,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -528,7 +528,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -536,7 +536,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -544,57 +544,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -602,23 +602,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -626,7 +626,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -634,7 +634,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -642,57 +642,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -700,23 +700,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -724,7 +724,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -732,7 +732,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -740,57 +740,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -798,23 +798,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -822,7 +822,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -830,7 +830,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -838,57 +838,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -896,23 +896,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -920,7 +920,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -928,7 +928,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -936,57 +936,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -994,23 +994,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1018,7 +1018,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1026,7 +1026,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1034,57 +1034,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1092,23 +1092,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1116,7 +1116,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1124,7 +1124,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1132,57 +1132,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1190,23 +1190,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1214,7 +1214,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1222,7 +1222,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1230,57 +1230,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1288,23 +1288,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1312,7 +1312,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1320,7 +1320,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1328,57 +1328,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1386,23 +1386,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1410,7 +1410,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1418,7 +1418,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1426,57 +1426,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1484,23 +1484,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1508,7 +1508,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1516,7 +1516,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1524,57 +1524,57 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
 14,Team Vitale,0.0,Team timewonder,0.0,Playoff
 14,Team dawkins,0.0,Team Rose42,0.0,Playoff
 1,Team Johnson,141.64,Team Quirk,160.76,Regular
-1,Team Aeiou,132.24,Team Sand,61.1,Regular
+1,Steely Dan Fan Club,132.24,Team Sand,61.1,Regular
 1,Team Amar,106.98,Team Calzaretta,77.76,Regular
 1,Team DarkBrandon,89.34,Team Theis,133.44,Regular
 1,Team Bernier-Simard,112.28,Team FortyTwo,120.94,Regular
 1,Team timewonder,99.28,Team Vitale,112.16,Regular
 1,Team Rose42,50.8,Team dawkins,94.12,Regular
-2,Team Aeiou,94.46,Team Johnson,126.74,Regular
+2,Steely Dan Fan Club,94.46,Team Johnson,126.74,Regular
 2,Team Quirk,64.88,Team Amar,121.04,Regular
 2,Team Sand,172.02,Team DarkBrandon,176.76,Regular
 2,Team Calzaretta,167.0,Team Bernier-Simard,93.66,Regular
@@ -1582,23 +1582,23 @@ Week,Name1,Score1,Name2,Score2,Type
 2,Team FortyTwo,117.54,Team Rose42,131.04,Regular
 2,Team Vitale,130.68,Team dawkins,104.2,Regular
 3,Team Johnson,94.66,Team Amar,162.04,Regular
-3,Team DarkBrandon,111.38,Team Aeiou,138.06,Regular
+3,Team DarkBrandon,111.38,Steely Dan Fan Club,138.06,Regular
 3,Team Bernier-Simard,104.88,Team Quirk,82.26,Regular
 3,Team timewonder,98.16,Team Sand,102.28,Regular
 3,Team Rose42,102.4,Team Calzaretta,139.98,Regular
 3,Team dawkins,110.6,Team Theis,194.88,Regular
 3,Team Vitale,179.98,Team FortyTwo,115.86,Regular
-4,Team DarkBrandon,0.0,Team Johnson,0.0,Regular
-4,Team Amar,0.0,Team Bernier-Simard,0.0,Regular
-4,Team Aeiou,0.0,Team timewonder,0.0,Regular
-4,Team Quirk,0.0,Team Rose42,0.0,Regular
-4,Team Sand,0.0,Team dawkins,0.0,Regular
-4,Team Calzaretta,0.0,Team Vitale,0.0,Regular
-4,Team Theis,0.0,Team FortyTwo,0.0,Regular
+4,Team DarkBrandon,141.2,Team Johnson,150.8,Regular
+4,Team Amar,86.42,Team Bernier-Simard,94.66,Regular
+4,Steely Dan Fan Club,82.78,Team timewonder,94.0,Regular
+4,Team Quirk,128.76,Team Rose42,126.4,Regular
+4,Team Sand,129.06,Team dawkins,157.58,Regular
+4,Team Calzaretta,81.92,Team Vitale,138.0,Regular
+4,Team Theis,126.42,Team FortyTwo,110.38,Regular
 5,Team Johnson,0.0,Team Bernier-Simard,0.0,Regular
 5,Team timewonder,0.0,Team DarkBrandon,0.0,Regular
 5,Team Rose42,0.0,Team Amar,0.0,Regular
-5,Team dawkins,0.0,Team Aeiou,0.0,Regular
+5,Team dawkins,0.0,Steely Dan Fan Club,0.0,Regular
 5,Team Vitale,0.0,Team Quirk,0.0,Regular
 5,Team FortyTwo,0.0,Team Sand,0.0,Regular
 5,Team Theis,0.0,Team Calzaretta,0.0,Regular
@@ -1606,7 +1606,7 @@ Week,Name1,Score1,Name2,Score2,Type
 6,Team Bernier-Simard,0.0,Team Rose42,0.0,Regular
 6,Team DarkBrandon,0.0,Team dawkins,0.0,Regular
 6,Team Amar,0.0,Team Vitale,0.0,Regular
-6,Team Aeiou,0.0,Team FortyTwo,0.0,Regular
+6,Steely Dan Fan Club,0.0,Team FortyTwo,0.0,Regular
 6,Team Quirk,0.0,Team Theis,0.0,Regular
 6,Team Sand,0.0,Team Calzaretta,0.0,Regular
 7,Team Johnson,0.0,Team Rose42,0.0,Regular
@@ -1614,7 +1614,7 @@ Week,Name1,Score1,Name2,Score2,Type
 7,Team Vitale,0.0,Team Bernier-Simard,0.0,Regular
 7,Team FortyTwo,0.0,Team DarkBrandon,0.0,Regular
 7,Team Theis,0.0,Team Amar,0.0,Regular
-7,Team Calzaretta,0.0,Team Aeiou,0.0,Regular
+7,Team Calzaretta,0.0,Steely Dan Fan Club,0.0,Regular
 7,Team Sand,0.0,Team Quirk,0.0,Regular
 8,Team dawkins,0.0,Team Johnson,0.0,Regular
 8,Team Rose42,0.0,Team Vitale,0.0,Regular
@@ -1622,44 +1622,44 @@ Week,Name1,Score1,Name2,Score2,Type
 8,Team Bernier-Simard,0.0,Team Theis,0.0,Regular
 8,Team DarkBrandon,0.0,Team Calzaretta,0.0,Regular
 8,Team Amar,0.0,Team Sand,0.0,Regular
-8,Team Aeiou,0.0,Team Quirk,0.0,Regular
+8,Steely Dan Fan Club,0.0,Team Quirk,0.0,Regular
 9,Team Johnson,0.0,Team Vitale,0.0,Regular
 9,Team FortyTwo,0.0,Team dawkins,0.0,Regular
 9,Team Theis,0.0,Team Rose42,0.0,Regular
 9,Team Calzaretta,0.0,Team timewonder,0.0,Regular
 9,Team Sand,0.0,Team Bernier-Simard,0.0,Regular
 9,Team Quirk,0.0,Team DarkBrandon,0.0,Regular
-9,Team Aeiou,0.0,Team Amar,0.0,Regular
+9,Steely Dan Fan Club,0.0,Team Amar,0.0,Regular
 10,Team FortyTwo,0.0,Team Johnson,0.0,Regular
 10,Team Vitale,0.0,Team Theis,0.0,Regular
 10,Team dawkins,0.0,Team Calzaretta,0.0,Regular
 10,Team Rose42,0.0,Team Sand,0.0,Regular
 10,Team timewonder,0.0,Team Quirk,0.0,Regular
-10,Team Bernier-Simard,0.0,Team Aeiou,0.0,Regular
+10,Team Bernier-Simard,0.0,Steely Dan Fan Club,0.0,Regular
 10,Team DarkBrandon,0.0,Team Amar,0.0,Regular
 11,Team Johnson,0.0,Team Theis,0.0,Regular
 11,Team Calzaretta,0.0,Team FortyTwo,0.0,Regular
 11,Team Sand,0.0,Team Vitale,0.0,Regular
 11,Team Quirk,0.0,Team dawkins,0.0,Regular
-11,Team Aeiou,0.0,Team Rose42,0.0,Regular
+11,Steely Dan Fan Club,0.0,Team Rose42,0.0,Regular
 11,Team Amar,0.0,Team timewonder,0.0,Regular
 11,Team DarkBrandon,0.0,Team Bernier-Simard,0.0,Regular
 12,Team Calzaretta,0.0,Team Johnson,0.0,Regular
 12,Team Theis,0.0,Team Sand,0.0,Regular
 12,Team FortyTwo,0.0,Team Quirk,0.0,Regular
-12,Team Vitale,0.0,Team Aeiou,0.0,Regular
+12,Team Vitale,0.0,Steely Dan Fan Club,0.0,Regular
 12,Team dawkins,0.0,Team Amar,0.0,Regular
 12,Team Rose42,0.0,Team DarkBrandon,0.0,Regular
 12,Team timewonder,0.0,Team Bernier-Simard,0.0,Regular
 13,Team Johnson,0.0,Team Sand,0.0,Regular
 13,Team Quirk,0.0,Team Calzaretta,0.0,Regular
-13,Team Aeiou,0.0,Team Theis,0.0,Regular
+13,Steely Dan Fan Club,0.0,Team Theis,0.0,Regular
 13,Team Amar,0.0,Team FortyTwo,0.0,Regular
 13,Team DarkBrandon,0.0,Team Vitale,0.0,Regular
 13,Team Bernier-Simard,0.0,Team dawkins,0.0,Regular
 13,Team timewonder,0.0,Team Rose42,0.0,Regular
 14,Team Quirk,0.0,Team Johnson,0.0,Playoff
-14,Team Sand,0.0,Team Aeiou,0.0,Playoff
+14,Team Sand,0.0,Steely Dan Fan Club,0.0,Playoff
 14,Team Calzaretta,0.0,Team Amar,0.0,Playoff
 14,Team Theis,0.0,Team DarkBrandon,0.0,Playoff
 14,Team FortyTwo,0.0,Team Bernier-Simard,0.0,Playoff
