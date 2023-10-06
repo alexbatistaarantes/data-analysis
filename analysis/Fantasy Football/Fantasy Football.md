@@ -13,11 +13,20 @@ League's data extracted using [espnfantasyfootball](https://github.com/tbryan2/e
 
 ```python
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 df = pd.read_csv("data/players.csv")
 mt = pd.read_csv("data/matches.csv")
+```
+
+## Some Variables to work with
+
+
+```python
+my_team = "Steely Dan Fan Club"
+last_full_week = 4
 ```
 
 ## Prepare
@@ -50,16 +59,8 @@ Filter only played weeks
 
 
 ```python
-last_full_week=3
 df = df[df.week<=last_full_week]
-```
-
-## Some Variables to work with
-
-
-```python
-my_team = "Team Aeiou"
-last_full_season = 3
+mt = mt[mt.week<=last_full_week].drop_duplicates()
 ```
 
 ## Working Data
@@ -71,20 +72,20 @@ df.head()
 ```
 
     <class 'pandas.core.frame.DataFrame'>
-    Int64Index: 681 entries, 0 to 680
+    Int64Index: 909 entries, 0 to 908
     Data columns (total 8 columns):
      #   Column      Non-Null Count  Dtype  
     ---  ------      --------------  -----  
-     0   week        681 non-null    int64  
-     1   name        681 non-null    object 
-     2   score       681 non-null    float64
-     3   projected   681 non-null    float64
-     4   team_index  681 non-null    int64  
-     5   position    681 non-null    object 
-     6   team        681 non-null    object 
-     7   user        681 non-null    object 
+     0   week        909 non-null    int64  
+     1   name        909 non-null    object 
+     2   score       909 non-null    float64
+     3   projected   909 non-null    float64
+     4   team_index  909 non-null    int64  
+     5   position    909 non-null    object 
+     6   team        909 non-null    object 
+     7   user        909 non-null    object 
     dtypes: float64(2), int64(2), object(4)
-    memory usage: 47.9+ KB
+    memory usage: 63.9+ KB
 
 
 
@@ -187,18 +188,18 @@ mt.head()
 ```
 
     <class 'pandas.core.frame.DataFrame'>
-    RangeIndex: 1666 entries, 0 to 1665
+    Int64Index: 28 entries, 0 to 27
     Data columns (total 6 columns):
      #   Column  Non-Null Count  Dtype  
     ---  ------  --------------  -----  
-     0   week    1666 non-null   int64  
-     1   team1   1666 non-null   object 
-     2   score1  1666 non-null   float64
-     3   team2   1666 non-null   object 
-     4   score2  1666 non-null   float64
-     5   type    1666 non-null   object 
+     0   week    28 non-null     int64  
+     1   team1   28 non-null     object 
+     2   score1  28 non-null     float64
+     3   team2   28 non-null     object 
+     4   score2  28 non-null     float64
+     5   type    28 non-null     object 
     dtypes: float64(2), int64(1), object(3)
-    memory usage: 78.2+ KB
+    memory usage: 1.5+ KB
 
 
 
@@ -243,7 +244,7 @@ mt.head()
     <tr>
       <th>1</th>
       <td>1</td>
-      <td>Team Aeiou</td>
+      <td>Steely Dan Fan Club</td>
       <td>132.24</td>
       <td>Team Sand</td>
       <td>61.10</td>
@@ -282,9 +283,124 @@ mt.head()
 
 
 
-# 
+# Metrics, Tables and Charts
 
-Compare players performances throughout the season
+Teams wins and total scores
+
+
+```python
+wins = pd.Series(np.where(mt.score1 > mt.score2, mt.team1, mt.team2)).value_counts()
+scores = df[df.position!='Bench'].groupby(['team']).score.sum().sort_values(ascending=False)
+
+pd.concat({'wins': wins, 'total_scores': scores}, axis=1).sort_values(['wins', 'total_scores'], ascending=False)
+
+# To get the average point per match (week) per team
+# df[df.position!='Bench'].groupby(['week', 'team']).score.sum().groupby('team').mean().sort_values(ascending=False)
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>wins</th>
+      <th>total_scores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Team Vitale</th>
+      <td>4</td>
+      <td>560.82</td>
+    </tr>
+    <tr>
+      <th>Team Theis</th>
+      <td>3</td>
+      <td>571.44</td>
+    </tr>
+    <tr>
+      <th>Team Amar</th>
+      <td>3</td>
+      <td>476.48</td>
+    </tr>
+    <tr>
+      <th>Team Johnson</th>
+      <td>2</td>
+      <td>513.84</td>
+    </tr>
+    <tr>
+      <th>Team Calzaretta</th>
+      <td>2</td>
+      <td>466.66</td>
+    </tr>
+    <tr>
+      <th>Team dawkins</th>
+      <td>2</td>
+      <td>466.50</td>
+    </tr>
+    <tr>
+      <th>Steely Dan Fan Club</th>
+      <td>2</td>
+      <td>447.54</td>
+    </tr>
+    <tr>
+      <th>Team Quirk</th>
+      <td>2</td>
+      <td>436.66</td>
+    </tr>
+    <tr>
+      <th>Team timewonder</th>
+      <td>2</td>
+      <td>419.52</td>
+    </tr>
+    <tr>
+      <th>Team Bernier-Simard</th>
+      <td>2</td>
+      <td>405.48</td>
+    </tr>
+    <tr>
+      <th>Team DarkBrandon</th>
+      <td>1</td>
+      <td>518.68</td>
+    </tr>
+    <tr>
+      <th>Team FortyTwo</th>
+      <td>1</td>
+      <td>464.72</td>
+    </tr>
+    <tr>
+      <th>Team Sand</th>
+      <td>1</td>
+      <td>464.46</td>
+    </tr>
+    <tr>
+      <th>Team Rose42</th>
+      <td>1</td>
+      <td>410.64</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+Comparing players performances throughout the season
 
 
 ```python
@@ -315,20 +431,19 @@ fig, ax = plt.subplots(figsize=(16,4), ncols=3)
 plot_players_score_throughout_season(df[(df.team==my_team)], ax[0], rbs, title="Running Back performances")
 plot_players_score_throughout_season(df[(df.team==my_team)], ax[1], qbs, title="Quarterbacks performances")
 plot_players_score_throughout_season(df[(df.team==my_team)], ax[2], wrs, title="Wide Receivers performances")
-
 ax[2].legend(fontsize="x-small")
 ```
 
 
 
 
-    <matplotlib.legend.Legend at 0x7fb55daa35e0>
+    <matplotlib.legend.Legend at 0x7f73f696f880>
 
 
 
 
     
-![png](output_16_1.png)
+![png](Fantasy%20Football_files/Fantasy%20Football_18_1.png)
     
 
 
@@ -340,33 +455,33 @@ fig, axs = plt.subplots(figsize=(14, 6), ncols=2)
 
 df['projection_error'] = df.projected - df.score
 
-axs[0].set_title("Scatter of projected score VS actual score")
 sns.scatterplot(data=df[df.position!='Bench'], x='score', y='projected', hue='position', ax=axs[0])
+axs[0].set_title("Scatter of projected score VS actual score")
+# Y axis limits to the same as X axis limits
+axs[0].set_ylim(bottom=axs[0].get_xlim()[0], top=axs[0].get_xlim()[1])
 
+df['projection_error'].plot.hist(bins=20, ax=axs[1])
 axs[1].set_title("Histogram of projection error (projected - actual score)")
-df['projection_error'].plot.hist(bins=15, ax=axs[1])
 
 ```
 
 
 
 
-    <Axes: title={'center': 'Histogram of projection error (projected - actual score)'}, ylabel='Frequency'>
+    Text(0.5, 1.0, 'Histogram of projection error (projected - actual score)')
 
 
 
 
     
-![png](output_18_1.png)
+![png](Fantasy%20Football_files/Fantasy%20Football_20_1.png)
     
 
 
-# Some Charts and Tables
+Comparing positions scores across teams, in Week 1
 
 
 ```python
-# Players scores in specific week
-
 week = 1
 position = 'RB'
 
@@ -384,6 +499,11 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](Fantasy%20Football_files/Fantasy%20Football_22_0.png)
     
 
+
+
+```python
+
+```
