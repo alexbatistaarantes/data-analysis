@@ -1,0 +1,5 @@
+- Procurando entender melhor os dados de acidentes agrupadas por pessoa (PS), devido a falta de informações no site da PRF, abri também os dados agrupados por ocorrência (OC)
+- Comparando vejo que PS contém os mesmos sinistros registrados em OC, porém com detalhes para cada pessoa envolvida (pesid)
+- Em PS, filtrando por um sinistro (405149) e uma pessoa (912793) vejo que alteram-se os valores das colunas causa_principal, causa_acidente, ordem_tipo_acidente, e tipo_acidente
+- Cada entrada em PS é um acidente por pessoa envolvida, por causa do acidente por tipo do acidente. Um acidente pode ter mais de um tipo de acidente, e de causa. Cada causa pode ser a causa de mais de um tipo de acidente.
+
